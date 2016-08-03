@@ -1,0 +1,26 @@
+Jul 29, 2016 10:31:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Jul 29, 2016 10:31:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing log4j system
+Jul 29, 2016 10:31:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring root WebApplicationContext
+Jul 29, 2016 10:31:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring sub WebApplicationContext: sysmanage
+Jul 29, 2016 10:31:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring sub WebApplicationContext: sysinfo
+Jul 29, 2016 10:31:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring sub WebApplicationContext: personal
+Jul 29, 2016 10:31:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring sub WebApplicationContext: governance
+Jul 29, 2016 10:31:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring sub WebApplicationContext: home
+Jul 29, 2016 10:31:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: WebxComponents: initialization completed
+Jul 29, 2016 10:31:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing filter: webx
+Jul 29, 2016 10:31:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: WebxFrameworkFilter - webx: initialization completed
+Jul 29, 2016 10:31:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing filter: mdc
+Jul 29, 2016 10:31:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SetLoggingContextFilter - mdc: initialization completed

@@ -1,0 +1,30 @@
+Jul 29, 2016 10:31:41 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Jul 29, 2016 10:31:41 AM org.apache.catalina.startup.SetAllPropertiesRule begin
+WARNING: [SetAllPropertiesRule]{Server/Service/Connector} Setting property 'minProcessors' to '8' did not find a matching property.
+Jul 29, 2016 10:31:41 AM org.apache.catalina.startup.SetAllPropertiesRule begin
+WARNING: [SetAllPropertiesRule]{Server/Service/Connector} Setting property 'maxProcessors' to '256' did not find a matching property.
+Jul 29, 2016 10:31:41 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-0.0.0.0-8090"]
+Jul 29, 2016 10:31:41 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-12450"]
+Jul 29, 2016 10:31:42 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8019"]
+Jul 29, 2016 10:31:42 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 554 ms
+Jul 29, 2016 10:31:42 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Jul 29, 2016 10:31:42 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.56
+Jul 29, 2016 10:31:42 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /usr/local/tomcat-dubbo-admin/webapps/ROOT
+Jul 29, 2016 10:31:52 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /usr/local/tomcat-dubbo-admin/webapps/ROOT has finished in 10,685 ms
+Jul 29, 2016 10:31:52 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-0.0.0.0-8090"]
+Jul 29, 2016 10:31:52 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-12450"]
+Jul 29, 2016 10:31:52 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8019"]
+Jul 29, 2016 10:31:52 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 10719 ms
